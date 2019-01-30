@@ -1,4 +1,8 @@
 {
-  "id": 1,
-  "phoneNumber": 9123456789,
+  "posts": [
+    {
+      "id": 1,
+      "phoneNumber": "9123456789"
+    }
+  ]
 }
